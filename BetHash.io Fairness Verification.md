@@ -1,5 +1,15 @@
 # BetHash.io Fairness Verification
 
+Decentralized app has bethash digital signature DSA PUBLIC AND PRIVATE KEY
+ 
+ Public key
+AZ5pMawTkxFUye6VAtsBZk3QZHqUDuqRYC5tCAB5vMKT
+   
+  Private key
+
+5cCQeQteRasSymosa1ZCC1k4bPu6RuhCByi5ko4Lr1QqbjDMwY4TzM8JBybKYmq1dctnm6Mu6o8gX6U14TjnabC9
+
+
 On 13-09-2019, a hacker attacked the EOS main net by sending massive transactions trying to manipulate the block ID of future blocks.
 
 To ensure the security of our game without jeopardizing any fairness, we integrate the Digital Signature Algorithm (DSA).
